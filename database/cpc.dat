@@ -1,0 +1,20 @@
+YCCP001Z	Path_of_the_config_file	8	128	A	D		N				R		Y	0
+YCCP002Z	Path_of_the_file	8	128	A	D		N				R		Y	0
+YCCP003Z	Path_of_the_motor_config	8	128	A	D		N				R		Y	0
+YCCP004Z	Module:_A_or_B_or_C	8	1	A	D		N				R		Y	0
+YCCP005Z	Module:_O_or_S_	8	1	A	D		N				R		Y	0
+YCCP006Z	Remote:R_Local:L	8	1	A	D		N				R		Y	0
+YCCP007Z	Motor_ON:1_OFF:0	3	4	U	D		N				R		Y	0
+YCCP008Z	FEE_ON:1_OFF:0	3	4	U	D		N				R		Y	0
+YCCP009Z	Lock:L_UnLock:U	8	1	A	D		N				R		Y	0
+YCCP010Z	LLD_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP011Z	MPos_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP012Z	Heat_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP013Z	MSte_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP014Z	Ref_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP015Z	Pos_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP016Z	Temp_Line:N_Line:R	8	1	A	D		N				R		Y	0
+YCCP017Z	Steps_Number	3	14	U	D		N				R		Y	0
+YCCP018Z	Current	5	2	R	D		N	ENRT220001			R		Y	0
+YCCP019Z	Motor_Pos	8	1	A	D		N				R		Y	0
+YCCP020Z	Heater_Temperature	5	2	R	D		N	ENRT220001			R		Y	0

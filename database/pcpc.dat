@@ -1,0 +1,6 @@
+GEBG0004	APID	U
+GEBG0006	Seq Counter	U
+GEBG0007	Packet Length	U
+GEBG0010	Ack	U
+GEBG0011	Packet Type	U
+GEBG0012	Packet Subtype	U

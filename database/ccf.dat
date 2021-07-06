@@ -1,0 +1,18 @@
+YCCC0001	Get_Status_EGSE_COM	EGSE - TC(8,1,0) Get Status		N	STDXPUSS	8	1	1870	2	N	Y	N	A	230					0	
+YCCC0002	Archive_Enable	EGSE - TC(8,1,0) Archive Enable		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0003	Load_Configuration	EGSE - TC(8,1,0) Load Configuration		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0004	Load_Command	EGSE - TC(8,1,0) Load Command Path		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0005	Set_EGSE_Mode	EGSE - TC(8,1,0) Set EGSE Mode		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0006	Set_LLD_Mode	EGSE - TC(8,1,0) Set LLD Mode		N	STDXPUSS	8	1	1870	4	N	Y	N	A	230					0	
+YCCC0007	Move_motor_position	EGSE - TC(8,1,0) Move Motor Position		N	STDXPUSS	8	1	1870	4	N	Y	N	A	230					0	
+YCCC0008	Motor_configuration	EGSE - TC(8,1,0) Motor Configuration		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0009	Set_Motor_Power	EGSE - TC(8,1,0) Set Motor Power		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0010	Set_Heater_Temperature	EGSE - TC(8,1,0) Set Heater Temperature		N	STDXPUSS	8	1	1870	4	N	Y	N	A	230					0	
+YCCC0011	TM_Start	EGSE - TC(8,1,0) Telemetry Start		N	STDXPUSS	8	1	1870	2	N	Y	N	A	230					0	
+YCCC0012	TM_Stop	EGSE - TC(8,1,0) Telemetry Stop		N	STDXPUSS	8	1	1870	2	N	Y	N	A	230					0	
+YCCC0013	Move_motor_steps	EGSE - TC(8,1,0) Move Motor Steps		N	STDXPUSS	8	1	1870	4	N	Y	N	A	230					0	
+YCCC0014	Search_Reference	EGSE - TC(8,1,0) Search Reference		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0015	Get_Position	EGSE - TC(8,1,0) Get Position		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0016	Get_Temperature	EGSE - TC(8,1,0) Get Temperature		N	STDXPUSS	8	1	1870	4	N	Y	N	A	230					0	
+YCCC0017	Motor_Margin	EGSE - TC(8,1,0) Motor Margin		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
+YCCC0018	FEE_Power	EGSE - TC(8,1,0) FEE Power		N	STDXPUSS	8	1	1870	3	N	Y	N	A	230					0	
